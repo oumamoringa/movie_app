@@ -1,7 +1,7 @@
 nav {
     list-style-type: none;
     height: 43px;
-  
+
     padding-right: 200px;
     overflow: hidden;
     background: #333;
@@ -12,7 +12,7 @@ nav {
 nav a {
     background-position: center;
     float: left;
-    
+
     display: block;
     color: white;
     text-align: center;
