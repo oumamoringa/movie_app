@@ -13,27 +13,27 @@
 
 
 .content-para {
-   
+
     font-size: 31px;
     text-decoration: underline;
-    color: rgb(211, 38, 38);
+    color: blue;
     padding: 41px 77px 10px 10px ;
 
 }
 
 
 .card-container {
-   
+
     width: 100%;
     height: 500px;
     background:whitesmoke;
     margin-top: 160px;
     position: relative;
- 
+
 }
 
 .card {
-   
+
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     background-color: rgb(240, 223, 223);
@@ -45,6 +45,5 @@
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(255, 0, 0, 0.726);
+    box-shadow: 0 8px 16px 0 blue;
   }
-  
