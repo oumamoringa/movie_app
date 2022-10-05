@@ -26,17 +26,12 @@ const navmenudata = [
 
   },
 
-  {
-    menu: 'State',
-    link: '/state',
 
-  },
+  // {
+  //   menu: 'Toggle',
+  //   link: '/toggle',
 
-  {
-    menu: 'Toggle',
-    link: '/toggle',
-
-  },
+  // },
 ];
 
 const Navmenu = () => (
