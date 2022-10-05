@@ -26,12 +26,6 @@ const navmenudata = [
 
   },
 
-
-  // {
-  //   menu: 'Toggle',
-  //   link: '/toggle',
-
-  // },
 ];
 
 const Navmenu = () => (
