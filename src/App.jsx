@@ -19,7 +19,8 @@ const News = () => (
   <div className="news">
     <title>News Page</title>
     <Banner />
-    <Content types="News" />
+    <Content  types="News" />
+
   </div>
 );
 
