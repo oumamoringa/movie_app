@@ -23,13 +23,13 @@ const Contentsection = ({ type }) => (
     </p>
     <br />
     <p>
-      Top 100 Television Movies. Best of Rotten Tomatoes.
+      Top 100 Television Movies. Best of The Best!
       <br />
       {' '}
-      Movies with 40 or more critic reviews vie for their place in history at Rotten Tomatoes.
+      Movies with 40 or more critic reviews vie for their place in history.
       {' '}
       <br />
-      Eligible movies are ...
+      The latest Movies are ...
     </p>
   </div>
 
